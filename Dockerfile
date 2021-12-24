@@ -1,3 +1,3 @@
-FROM evilbeaver/oscript-web:0.3.2
+FROM evilbeaver/oscript-web:dev
 
-COPY src /app
+COPY src /var/osp.net/
