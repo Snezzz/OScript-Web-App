@@ -1,0 +1,36 @@
+.main h1 {
+    font-size: 30px;
+    color: red
+}
+
+.specialLine {
+    color:rgb(69, 125, 190)
+}
+
+.firstLevelButton {
+    margin-top: 10px;
+    appearance: none;
+    border: 0;
+    border-radius: 5px;
+    background: #4676D7;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+
+.foot-menu {
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.foot-menu-item {
+    margin-right: 20px;
+    list-style: none;
+    color: green
+}
+
+.foot-menu-item a {
+    text-decoration-line: none;
+    text-decoration-color: brown;
+}

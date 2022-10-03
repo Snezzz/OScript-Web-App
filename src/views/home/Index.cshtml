@@ -1,11 +1,20 @@
-﻿
-<h1>Привет!</h1>
-<p>Я страничка из сайта на языке 1С!</p>
+﻿<div class = "main">
+    <h1>Привет!</h1>
+    <div>Я страничка из сайта на языке <b class = "specialLine">1С!</b></div>
+    <button class = "firstLevelButton">Click me!</button>
+</div>
 
-<button onClick = {getHi()}>Click me!</button>
-
-<script>
-let getHi = () => {
-    alert("Hello, world!")
-}
-</script>
+<div class = "foot">
+    <h3 class = "foot-titile"> Здесь указаны все возможные пути:</h3>
+    <ul class = "foot-menu">
+        <li class = "foot-menu-item">  
+            <a href = "home/mainmodule"> Главная страничка </a>
+        </li>
+        <li class = "foot-menu-item">
+            <a href = "home/pagetemplates"> Шаблон странички </a>
+        </li>
+        <li class = "foot-menu-item">
+            <a href = "home/pageinfo"> Информация </a>
+        </li>
+    </ul>
+</div>

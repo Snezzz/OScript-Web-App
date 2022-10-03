@@ -7,6 +7,14 @@ Function Index() Export
 
 EndFunction
 
+Function PageInfo() Export
+	
+	Ответ = Новый РезультатДействияПредставление();
+	
+	Возврат Ответ;
+
+EndFunction
+
 Function MainModule() Export
 	
 	Ответ = Новый РезультатДействияПредставление();
