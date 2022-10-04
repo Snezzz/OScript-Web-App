@@ -22,4 +22,6 @@
 ### Useful links  
 [1. Веб-разработка на 1Script. Глава 1](https://infostart.ru/1c/articles/783435/)  
 [2. 1Script.Web. Интернет-приложения на языке 1С](https://infostart.ru/1c/articles/1063641/)  
-[3. Libs](https://web.oscript.io/packages)
+[3. Libs](https://web.oscript.io/packages)  
+[4. Работа с СУБД](https://infostart.ru/public/672461/)  
+[5. Библиотека sql](https://github.com/oscript-library/sql)
